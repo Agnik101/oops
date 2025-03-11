@@ -1,0 +1,28 @@
+Object-Oriented Programming Lab (CSEN3053)
+Day 8
+Assignment
+Stream: CSE (DS)
+1. Create an abstract class "ThreeDObject". The class "ThreeDObject" has two abstract
+methods"surfaceArea()" and "volume()". Declare classes "Box", "Cube", "Cylinder" and "Cone"
+as subclasses of "ThreeDObject". In main method create objects of "Cube", "Cylinder" and
+"Cone" and print the "surfaceArea()" and "volume()" of all the shapes.
+2. Create an interface “College” containing attributes CollegeName and CollegeCode. It also has
+abstract method display(). Create a class “Department” containing attributes deptName,
+DeptHead. The class contains methods for accepting and displaying member variables . Then
+write “Student” class extending “Department” class and implementing “College” interface. This
+class contains attributes studentName, regNo, and avgMarks. Write a driver class to test the
+“Student” class. Print all the details of the student.
+3. Create a class Student in package p1. Student has data members name and roll_no. Write
+appropriate method to read input and display output. Create subclass Marks (marks is not in p1)
+consisting of marks of 3 different subjects. Display name, roll_no and marks of each individual
+student.
+4. In a triangle, the sum of two sides is greater than the third. If we are given three values a, b ,c
+then
+a+b>c
+b+c>a
+c+a>b
+Write a class Triangle which throw an exception of type TriangleException (user defined
+exception) if any one of the above conditions are not satisfied else evaluate the area of a
+triangle and display the output.
+
+
