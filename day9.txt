@@ -1,0 +1,15 @@
+1. Define a class, MyThread, by implementing Runnable interface and create 3
+threads with the max priority, min priority and average priority. Each of the threads
+will display 1 to 5, and there will be a sleep of 2s between each of the display.
+2. Define a class, MyClass, by inheriting Thread class and create 4 threads with
+random priority in the range of 1...5. Update a counter for 10 milliseconds in each
+of the threads. In these threads, priority will be increased by 1, 2, 2, 1,
+respectively in every 30 millisecond. Print the priority and the value of counter for
+each threads in every 10 milliseconds.
+
+3. Write a JAVA applet program that shows the output “A sample applet program”.
+
+4. Write a JAVA GUI program that creates a button “Add”, two text boxes and
+corresponding labels for entering two numbers. After clicking on the button,
+the two numbers entered into the text boxes are added and the sum is
+displayed in another text box with label “Sum”.
