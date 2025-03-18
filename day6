@@ -1,0 +1,19 @@
+1. Write a program to implement multiplication of two matrices using Java.
+2. Write a program in Java which uses three command-line arguments to initialize an array.
+When the program executes, if args.length is not 3, the program prints an error message and
+
+terminates. Otherwise ,it initializes and displays the array based on the values of the command-
+line arguments. The args[ 0 ] specifies the array size, args[ 1 ] and args[ 2 ] are initial value
+
+and increment respectively. Calculate the value for each array element.
+3. i)Write a program in Java to create a class called “Box” which contains three variables –
+width, height and length. Set the values of the variables using constructor overloading, and
+also use a method “volume” which returns the volume of the box.From main function call the
+volume function of the class and print the volume.
+ii) Write a method called “equals” in the “Box” class. “equals” method has only one parameter
+of type Box. Use this function to check whether two boxes are identical or not.
+4. Create a class called “time” in Java which will have three private data members viz hour,
+minute and second and also a method name “add” which will take one “time” object as
+parameter and print the added value of the calling “time” object and passed “time” object. In
+the main function declare two “time” objects and assign values using the constructor and call
+the “add” method.
