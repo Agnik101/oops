@@ -1,0 +1,13 @@
+1. Write a program to implement prefix and postfix increment and
+decrement operator overloading on a data member of a class.
+2. Write a program to create a class Vector with data member *arr,
+where arr is a pointer to a vector. Use dynamic memory allocation for
+this vector. Implement Assignment Operator ( = ) overloading to
+assign one vector into another.
+3. Create a class Matrix with two data members row and column.
+Use dynamic memory allocation for two dimension array and
+then perform matrix multiplication using operator overloading.
+
+4. WAP in C++ to create a class String1 which has a character
+array. a) Concatenate two strings by overloading ‘+’ operator.
+b) Check equality of two strings by overloading ‘==’ operator.
